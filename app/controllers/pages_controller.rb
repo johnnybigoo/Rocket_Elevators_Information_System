@@ -10,4 +10,7 @@ class PagesController < ApplicationController
 
   def quote
   end
+
+  def graphic  
+  end
 end
