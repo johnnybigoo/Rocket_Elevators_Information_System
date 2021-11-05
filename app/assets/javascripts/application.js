@@ -27,7 +27,12 @@
 //= require bootstrap
 //= require jquery_ujs
 //= require owl.carousel
+<<<<<<< HEAD
 //= require chartkick
 //= require Chart.bundle
+=======
+//= require Chart.bundle
+//= require chartkick
+>>>>>>> 3c86aa47805daf119ebfa080a2672b643ed9f5c6
 //= require_tree .
 
