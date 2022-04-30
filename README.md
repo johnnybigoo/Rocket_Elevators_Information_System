@@ -1,8 +1,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="http://rocketelevators-jt.com/assets/images/_rocket/R2.png">
-    <img src="http://rocketelevators-jt.com/assets/images/_rocket/R2.png" alt="Logo" width="500" height="200">
+  <a href="https://rocketelevate.ca/assets/images/RocketElevatorAssets/R2.png">
+    <img src="https://rocketelevate.ca/assets/images/RocketElevatorAssets/R2.png" alt="Logo" width="500" height="200">
   </a>
 
   <h3 align="center">Rocket Elevators Information System
